@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.arrow-logo {
+  width: 20px;
+  cursor: pointer;
+}
+.suggestion-item-containers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+}

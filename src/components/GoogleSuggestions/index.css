@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+.logo {
+  width: 30%;
+}
+.item-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+}
+.suggestion-item-container {
+  background-color: #ffffff;
+
+  padding: 8px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 40vw;
+  border-radius: 16px;
+}
+.search-icon {
+  width: 30px;
+  height: 30px;
+}
+.search-input {
+  width: 40vw;
+  outline: none;
+  color: #64748b;
+  padding: 10px 10px;
+  border: none;
+  font-size: 18px;
+}
+.list-container {
+  list-style-type: none;
+  padding-left: 0%;
+}
